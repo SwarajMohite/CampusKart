@@ -3,6 +3,11 @@
 **CampusKart** is a **web-based platform** designed exclusively for **diploma/polytechnic students in Maharashtra**.  
 It provides a **safe, community-driven space** to **buy, sell, and share academic resources** like notes, projects, and study materials.
 
+
+<p align="center">
+<img src="./CampusKart.png" alt="CampusKart Logo" width="300" style="max-width:100%; height:auto; display:block; margin:auto;" />
+</p>
+
 ---
 
 ## ❗ Problem Statement
